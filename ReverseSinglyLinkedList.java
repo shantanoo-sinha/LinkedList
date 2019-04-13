@@ -1,3 +1,4 @@
+Source: https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088
 
 public void reverse(Node head) {
   Node previous = null;
